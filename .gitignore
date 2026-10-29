@@ -1,0 +1,14 @@
+/[Ll]ibrary/
+/[尝]ogs/
+/[Uu]ser[Ss]ettings/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Logs/
+/UserSettings/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
